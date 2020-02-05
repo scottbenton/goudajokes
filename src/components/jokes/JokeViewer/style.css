@@ -1,0 +1,12 @@
+.backgroundImage {
+  width: 100%;
+  background: url('../../../resources//blob.png') center no-repeat;
+  background-size: contain;
+  min-height: 400px;
+}
+
+.textCenter {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
